@@ -1,0 +1,9 @@
+{
+    "containers": {
+        "distance": "/in-cse/cnt_15a7e17a-8ede-48b2-adee-601e9b06dd3c",
+        "temperature": "/in-cse/cnt_a688d698-af66-455b-96eb-56e6f333578e",
+        "humidity": "/in-cse/cnt_66555538-3b44-4934-97ee-742994613002",
+        "lamp": "/in-cse/cnt_67cf8e38-f158-459f-a4ba-8d5c1bd82eaf"
+    },
+    "aeResourceId": "/in-cse/ae_df1e8e1d-5e23-4c46-9b26-d5b8175303a5"
+}
