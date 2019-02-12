@@ -25,7 +25,7 @@ if(db.get("containers")){
     db.set("containers", {});
 }
 
-var comPortNumber = "COM4";
+var comPortNumber = "COM5";
 
 initializeSerialPort();
 
